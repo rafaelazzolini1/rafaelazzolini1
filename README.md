@@ -2,18 +2,16 @@
 
 **Junior Full-Stack Developer**
 
-Hello, I'm Rafael Azzolini — Computer Engineer (dual degree 🇪🇸 🤝 🇧🇷). I work on personal projects and as a freelancer, building with Node.js, TypeScript, React Native, Next.js, Python, and PostgreSQL / SQL Server / Supabase / MongoDB.
+Hello, I'm Rafael Azzolini — Computer Engineer (dual degree <img src="https://flagcdn.com/es.svg" height="13" alt="Spain" /> 🤝 <img src="https://flagcdn.com/br.svg" height="13" alt="Brazil" />). I work on personal projects and as a freelancer, building with Node.js, TypeScript, React Native, Next.js, Python, and PostgreSQL / SQL Server / Supabase / MongoDB.
 
-<p>
-  <a href="https://rafael-azzolini-portifolio.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/readdotcv/ffffff" /><img src="https://cdn.simpleicons.org/readdotcv/1a1a1a" width="20" height="20" alt="Portfolio" /></picture> Portfolio</a><br />
-  <a href="https://www.linkedin.com/in/rafael-azzolini/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn" /> LinkedIn</a><br />
-  <a href="mailto:rafaazzolini@hotmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Email" /> Email</a><br />
-  <a href="https://wa.me/5515998500608"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="20" height="20" alt="WhatsApp" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMCAzaDRhMyAzIDAgMCAxIDMgM3YxaDNhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMlY5YTIgMiAwIDAgMSAyLTJoM1Y2YTMgMyAwIDAgMSAzLTN6bTAgMmExIDEgMCAwIDAtMSAxdjFoNlY2YTEgMSAwIDAgMC0xLTFoLTR6Ii8%2BPC9zdmc%2B)](https://rafael-azzolini-portifolio.vercel.app)<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-azzolini/)<br />
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaazzolini@hotmail.com)<br />
+[![Phone](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02LjYyIDEwLjc5YTE1LjA1IDE1LjA1IDAgMCAwIDYuNTkgNi41OWwyLjItMi4yYTEgMSAwIDAgMSAxLjAzLS4yNGMxLjEyLjM3IDIuMzMuNTcgMy41Ni41N2ExIDEgMCAwIDEgMSAxVjIwYTEgMSAwIDAgMS0xIDFDMTAuNjEgMjEgMyAxMy4zOSAzIDRhMSAxIDAgMCAxIDEtMWgzLjVhMSAxIDAgMCAxIDEgMWMwIDEuMjQuMiAyLjQ0LjU3IDMuNTZhMSAxIDAgMCAxLS4yNSAxLjAzbC0yLjIgMi4yeiIvPjwvc3ZnPg%3D%3D)](https://wa.me/5515998500608)
 
 ## 📌 About me
 
-- 🏗️ Building **Vistobra**, a SaaS product.
+- 🏗️ Building **Vistobra**, a product that turn the jobsite into precious live data, photo-backed inspections, a visual cross-section of every tower, and planned × actual schedules that surface delays before they cost you.
 - 🌱 Currently expanding into **Backend & AWS** with Python and Go.
 - 📈 Track record of **measurable efficiency** at PepsiCo, featuring automations that reduced material waste by **44%** and an AI agent utilizing RAG that lowered HR operational demand by approximately **34%**.
 - 🌍 Languages: Portuguese · English · Spanish · Catalan.
@@ -53,7 +51,7 @@ Hello, I'm Rafael Azzolini — Computer Engineer (dual degree 🇪🇸 🤝 🇧
   <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="42" alt="SAP" title="SAP" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="42" alt="AWS" title="AWS" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="42" alt="Kubernetes" title="Kubernetes" />&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/ffffff" /><img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="42" alt="RAG / LLM" title="RAG / LLM" /></picture>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42" alt="RAG / LLM" title="RAG / LLM" />
 </p>
 
 ## 🚀 Featured Projects
