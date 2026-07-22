@@ -1,40 +1,21 @@
-<h1 align="center">Hi, I'm Rafael Azzolini 👋</h1>
+# Rafael Azzolini
 
-<p align="center">
-  <strong>Full-Stack Developer</strong> · Computer Engineer (dual degree 🇧🇷 / 🇪🇺)
-</p>
+**Full-Stack Developer** · Computer Engineer (dual degree 🇧🇷 / 🇪🇺)
 
-<p align="center">
-  I build interfaces and systems with <b>React</b>, <b>Next.js</b> and <b>TypeScript</b>,
-  automate processes with <b>Python</b>, and chase measurable efficiency and code with purpose.
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://rafael-azzolini-portifolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-azzolini/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaazzolini@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/%2815%29_99850--0608-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515998500608)
 
-<p align="center">
-  <a href="https://rafael-azzolini-portifolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/rafael-azzolini/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rafaazzolini@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## 📌 About me
 
----
-
-### 🧠 About me
-
-- 🎓 **Computer Engineer** with a dual degree — FACENS (Brazil) & Universitat de Lleida (Spain).
-- 🧩 I turn business problems into products that generate value, from logic to performance.
+- 🧩 Turning business problems into products that generate value, from logic to performance.
 - 📈 Track record of **measurable efficiency**: automations that cut material waste **44%** at PepsiCo, and a RAG AI agent that reduced operational demand **~34%**.
 - 🌱 Currently expanding into **Backend & AWS** with Python and Go.
 - 🌍 Languages: Portuguese · English · Spanish · Catalan.
-- 📍 Based in São Paulo, Brazil — open to **on-site / hybrid / remote** opportunities.
+- 📍 Based in São Paulo, SP · Porto Feliz, SP · open to **on-site / hybrid / remote** opportunities.
 
----
-
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend**
 
@@ -65,27 +46,14 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_/_LLM-412991?style=flat&logo=openai&logoColor=white)
 
----
-
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **✒️ Tattoo Artist Portfolio** | Multilingual portfolio site to showcase a tattoo artist's work, focused on performance and SEO. | Next.js · TypeScript · i18n · Tailwind | [Demo](https://larissa-s-portifoli.vercel.app/en/content) · [Code](https://github.com/rafaelazzolini1/Larissa-s-Portifoli) |
+| **✒️ Tattoo Artist Portfolio** | Multilingual portfolio site to showcase a tattoo artist's work, focused on performance and SEO. | Next.js · TypeScript · i18n · Tailwind | [Demo](https://larissa-s-portifoli.vercel.app/en) · [Code](https://github.com/rafaelazzolini1/Larissa-s-Portifoli) |
 | **🕰️ Time Tracking System** | Clock-in/out registration and shift management with reports — automating a previously manual process. | Python · SQL · Automation | [Demo](https://ponto-system.vercel.app/login) · [Code](https://github.com/rafaelazzolini1/Ponto-System) |
 | **🤖 RAG AI Agent for HR** | Retrieval-Augmented Generation agent that automates controlled access to HR data, cutting operational demand by 34%. Final degree project. | Python · RAG · LLM · Flask | [Code](https://github.com/rafaelazzolini1) |
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaelazzolini1&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelazzolini1&layout=compact&hide_border=true&theme=dark&langs_count=8" alt="Top languages" />
-</p>
-
----
-
-<p align="center">
-  <i>"I like code that isn't just work but is also understandable, and built to last and scale."</i>
-</p>
+> *"I like to see code running to transforming complex things into simple ones"*
