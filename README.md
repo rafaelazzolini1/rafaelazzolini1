@@ -1,3 +1,5 @@
+<img src="banner.svg" alt="Rafael Azzolini — Junior Full-Stack Developer. Computer Engineer, dual degree Spain and Brazil." width="100%" />
+
 # Rafael Azzolini
 
 **Junior Full-Stack Developer**
@@ -51,7 +53,7 @@ Hello, I'm Rafael Azzolini — Computer Engineer (dual degree <img src="https://
   <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="42" alt="SAP" title="SAP" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="42" alt="AWS" title="AWS" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="42" alt="Kubernetes" title="Kubernetes" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42" alt="RAG / LLM" title="RAG / LLM" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/brain.svg?color=%23A78BFA&amp;height=42" /><img src="https://api.iconify.design/mdi/brain.svg?color=%236D28D9&amp;height=42" height="42" alt="RAG / LLM" title="RAG / LLM" /></picture>
 </p>
 
 ## 🚀 Featured Projects
