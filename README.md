@@ -1,10 +1,18 @@
-<img src="banner.svg" alt="Rafael Azzolini — Junior Full-Stack Developer. Computer Engineer, dual degree Spain and Brazil." width="100%" />
+<img src="banner.svg" alt="Rafael Azzolini — Junior Full-Stack Developer. Computer Engineer, dual degree Brazil and Spain. Speaks Portuguese, English, Spanish and Catalan." width="100%" />
 
 # Rafael Azzolini
 
 **Junior Full-Stack Developer**
 
-Hello, I'm Rafael Azzolini — Computer Engineer (dual degree <img src="https://flagcdn.com/es.svg" height="13" alt="Spain" /> 🤝 <img src="https://flagcdn.com/br.svg" height="13" alt="Brazil" />). I work on personal projects and as a freelancer, building with Node.js, TypeScript, React Native, Next.js, Python, and PostgreSQL / SQL Server / Supabase / MongoDB.
+Computer Engineer · dual degree <img src="https://flagcdn.com/es.svg" height="13" alt="Spain" /> 🤝 <img src="https://flagcdn.com/br.svg" height="13" alt="Brazil" />
+
+```ts
+const rafael = {
+  works: ["personal projects", "freelance"],
+  stack: ["TypeScript", "Next.js", "React Native", "Node.js", "Python"],
+  data:  ["PostgreSQL", "SQL Server", "Supabase", "MongoDB"],
+} as const;
+```
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMCAzaDRhMyAzIDAgMCAxIDMgM3YxaDNhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMlY5YTIgMiAwIDAgMSAyLTJoM1Y2YTMgMyAwIDAgMSAzLTN6bTAgMmExIDEgMCAwIDAtMSAxdjFoNlY2YTEgMSAwIDAgMC0xLTFoLTR6Ii8%2BPC9zdmc%2B)](https://rafael-azzolini-portifolio.vercel.app)<br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-azzolini/)<br />
