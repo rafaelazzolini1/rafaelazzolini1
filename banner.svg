@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Rafael Azzolini — Junior Full-Stack Developer. Computer Engineer, dual degree Spain and Brazil.">
+  <title>Rafael Azzolini — Junior Full-Stack Developer</title>
+
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#17293F" stroke-width="1" />
+    </pattern>
+    <linearGradient id="scanGlow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5BC8E8" stop-opacity="0" />
+      <stop offset="0.75" stop-color="#5BC8E8" stop-opacity="0.18" />
+      <stop offset="1" stop-color="#5BC8E8" stop-opacity="0.75" />
+    </linearGradient>
+    <clipPath id="towerClip">
+      <rect x="848" y="32" width="284" height="228" />
+    </clipPath>
+  </defs>
+
+  <style>
+    .scanner { animation: sweep 4.5s ease-in-out infinite alternate; }
+    @keyframes sweep {
+      from { transform: translateY(0); }
+      to   { transform: translateY(212px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .scanner { animation: none; transform: translateY(106px); }
+    }
+  </style>
+
+  <!-- ground -->
+  <rect width="1200" height="300" fill="#0B1220" />
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.55" />
+
+  <!-- hi-vis edge marker -->
+  <rect x="0" y="0" width="6" height="300" fill="#FFD400" />
+
+  <!-- identity block -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+    <text x="80" y="92" fill="#5BC8E8" font-size="15" letter-spacing="4.5" opacity="0.85">COMPUTER ENGINEER · DUAL DEGREE ES / BR</text>
+
+    <text x="80" y="150" fill="#E9E5DD" font-size="58" font-weight="700" letter-spacing="2">RAFAEL AZZOLINI</text>
+
+    <path d="M80 172 H648" stroke="#2C4A6E" stroke-width="1.5" />
+
+    <text x="80" y="204" fill="#FFD400" font-size="19" letter-spacing="5">JUNIOR FULL-STACK DEVELOPER</text>
+
+    <text x="80" y="240" fill="#E9E5DD" font-size="13" letter-spacing="2.2" opacity="0.4">REACT · NEXT.JS · TYPESCRIPT · NODE.JS · PYTHON</text>
+  </g>
+
+  <!-- tower cross-section -->
+  <g>
+    <!-- floor plates -->
+    <g stroke="#2C4A6E" stroke-width="1.5" fill="#101B2B">
+      <rect x="860" y="40" width="260" height="14" />
+      <rect x="860" y="60" width="260" height="14" />
+      <rect x="860" y="80" width="260" height="14" />
+      <rect x="860" y="100" width="260" height="14" />
+      <rect x="860" y="120" width="260" height="14" />
+      <rect x="860" y="140" width="260" height="14" />
+      <rect x="860" y="160" width="260" height="14" />
+      <rect x="860" y="180" width="260" height="14" />
+      <rect x="860" y="200" width="260" height="14" />
+      <rect x="860" y="220" width="260" height="14" />
+      <rect x="860" y="240" width="260" height="14" />
+    </g>
+
+    <!-- service core -->
+    <path d="M990 40 V254" stroke="#2C4A6E" stroke-width="1.5" stroke-dasharray="4 5" />
+
+    <!-- inspected floors -->
+    <g fill="#FFD400">
+      <rect x="843" y="64" width="7" height="6" />
+      <rect x="843" y="104" width="7" height="6" />
+      <rect x="843" y="124" width="7" height="6" />
+      <rect x="843" y="184" width="7" height="6" />
+      <rect x="843" y="224" width="7" height="6" />
+    </g>
+
+    <!-- inspection sweep -->
+    <g clip-path="url(#towerClip)">
+      <g class="scanner">
+        <rect x="848" y="-30" width="284" height="72" fill="url(#scanGlow)" />
+        <path d="M848 42 H1132" stroke="#5BC8E8" stroke-width="2" />
+      </g>
+    </g>
+
+    <!-- grade line -->
+    <path d="M836 262 H1144" stroke="#FFD400" stroke-width="2" stroke-dasharray="10 6" opacity="0.75" />
+    <text x="860" y="286" fill="#5BC8E8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="4.5" opacity="0.6">VISTOBRA</text>
+  </g>
+</svg>
