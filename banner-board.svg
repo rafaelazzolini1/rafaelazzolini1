@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Rafael Azzolini — Junior Full-Stack Developer. Availability board: on-site São Paulo SP, hybrid São Paulo SP, remote worldwide — all open. Greeting cycles through Portuguese, English, Spanish and Catalan.">
+  <title>Rafael Azzolini — Junior Full-Stack Developer</title>
+
+  <style>
+    .flap { transform-box: fill-box; transform-origin: center; }
+    .g0 { animation: f0 9s infinite; }
+    .g1 { animation: f1 9s infinite; }
+    .g2 { animation: f2 9s infinite; }
+    .g3 { animation: f3 9s infinite; }
+    @keyframes f0 {
+      0%,22%   { opacity: 1; transform: scaleY(1); }
+      25%,97%  { opacity: 0; transform: scaleY(.06); }
+      100%     { opacity: 1; transform: scaleY(1); }
+    }
+    @keyframes f1 {
+      0%,22%   { opacity: 0; transform: scaleY(.06); }
+      25%,47%  { opacity: 1; transform: scaleY(1); }
+      50%,100% { opacity: 0; transform: scaleY(.06); }
+    }
+    @keyframes f2 {
+      0%,47%   { opacity: 0; transform: scaleY(.06); }
+      50%,72%  { opacity: 1; transform: scaleY(1); }
+      75%,100% { opacity: 0; transform: scaleY(.06); }
+    }
+    @keyframes f3 {
+      0%,72%   { opacity: 0; transform: scaleY(.06); }
+      75%,97%  { opacity: 1; transform: scaleY(1); }
+      100%     { opacity: 0; transform: scaleY(.06); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .flap { animation: none; opacity: 0; transform: none; }
+      .g0   { opacity: 1; }
+    }
+  </style>
+
+  <!-- housing -->
+  <rect width="1200" height="300" fill="#0B0B0D" />
+  <rect x="20" y="20" width="1160" height="260" rx="10" fill="#131417" stroke="#26282E" stroke-width="1.5" />
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+
+    <!-- greeting flap -->
+    <rect x="64" y="48" width="200" height="60" rx="6" fill="#1C1E22" stroke="#32353C" stroke-width="1" />
+    <g text-anchor="middle" font-size="28" font-weight="700" letter-spacing="2" fill="#E8B04B">
+      <text class="flap g0" x="164" y="88">OLÁ</text>
+      <text class="flap g1" x="164" y="88">HELLO</text>
+      <text class="flap g2" x="164" y="88">HOLA</text>
+      <text class="flap g3" x="164" y="88">BON DIA</text>
+    </g>
+    <path d="M64 78 H264" stroke="#0B0B0D" stroke-width="1.5" />
+
+    <!-- identity -->
+    <text x="300" y="88" fill="#F2EFE9" font-size="44" font-weight="700" letter-spacing="2">RAFAEL AZZOLINI</text>
+    <text x="300" y="114" fill="#7E8792" font-size="15" letter-spacing="4.5">JUNIOR FULL-STACK DEVELOPER</text>
+
+    <path d="M64 134 H1136" stroke="#26282E" stroke-width="1.5" />
+
+    <!-- column headers -->
+    <g font-size="11" letter-spacing="3" fill="#5C646E">
+      <text x="64" y="158">MODE</text>
+      <text x="420" y="158">LOCATION</text>
+      <text x="920" y="158">STATUS</text>
+    </g>
+
+    <!-- flap rows -->
+    <g>
+      <rect x="48" y="172" width="1104" height="30" rx="3" fill="#16181C" />
+      <path d="M48 187 H1152" stroke="#0B0B0D" stroke-width="1" />
+      <rect x="48" y="208" width="1104" height="30" rx="3" fill="#16181C" />
+      <path d="M48 223 H1152" stroke="#0B0B0D" stroke-width="1" />
+      <rect x="48" y="244" width="1104" height="30" rx="3" fill="#16181C" />
+      <path d="M48 259 H1152" stroke="#0B0B0D" stroke-width="1" />
+    </g>
+
+    <g font-size="18" letter-spacing="2">
+      <text x="64" y="194" fill="#F2EFE9">ON-SITE</text>
+      <text x="420" y="194" fill="#E8B04B">SÃO PAULO, SP</text>
+      <text x="920" y="194" fill="#5FD08A">OPEN</text>
+
+      <text x="64" y="230" fill="#F2EFE9">HYBRID</text>
+      <text x="420" y="230" fill="#E8B04B">SÃO PAULO, SP</text>
+      <text x="920" y="230" fill="#5FD08A">OPEN</text>
+
+      <text x="64" y="266" fill="#F2EFE9">REMOTE</text>
+      <text x="420" y="266" fill="#E8B04B">WORLDWIDE</text>
+      <text x="920" y="266" fill="#5FD08A">OPEN</text>
+    </g>
+
+  </g>
+</svg>

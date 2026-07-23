@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Rafael Azzolini — Junior Full-Stack Developer. Computer Engineer, dual degree Brazil and Spain. Speaks Portuguese, English, Spanish and Catalan." width="100%" />
+<img src="banner-board.svg" alt="Rafael Azzolini — Junior Full-Stack Developer. Availability board: on-site São Paulo SP, hybrid São Paulo SP, remote worldwide — all open." width="100%" />
 
 # Rafael Azzolini
 
@@ -29,40 +29,43 @@ const rafael = {
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="42" alt="React" title="React" />&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><img src="https://cdn.simpleicons.org/nextdotjs/000000" height="42" alt="Next.js" title="Next.js" /></picture>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="42" alt="React Native" title="React Native" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
-</p>
-
-**Backend & Data**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="Python" title="Python" />&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/ffffff" /><img src="https://cdn.simpleicons.org/flask/000000" height="42" alt="Flask" title="Flask" /></picture>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="42" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="42" alt="Supabase" title="Supabase" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="42" alt="Go" title="Go" />
-</p>
-
-**Tools & Automation**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" alt="Git" title="Git" />&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" /><img src="https://cdn.simpleicons.org/github/181717" height="42" alt="GitHub" title="GitHub" /></picture>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="42" alt="SAP" title="SAP" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="42" alt="AWS" title="AWS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="42" alt="Kubernetes" title="Kubernetes" />&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/brain.svg?color=%23A78BFA&amp;height=42" /><img src="https://api.iconify.design/mdi/brain.svg?color=%236D28D9&amp;height=42" height="42" alt="RAG / LLM" title="RAG / LLM" /></picture>
-</p>
+<table>
+  <tr>
+    <td valign="middle" width="19%"><b>Frontend</b></td>
+    <td valign="middle" width="81%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" title="React" />&nbsp;&nbsp;
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js" title="Next.js" /></picture>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="40" alt="React Native" title="React Native" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Backend &amp; Data</b></td>
+    <td valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/ffffff" /><img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="Flask" title="Flask" /></picture>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40" alt="Go" title="Go" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Tools &amp; Automation</b></td>
+    <td valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git" />&nbsp;&nbsp;
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" /><img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" title="GitHub" /></picture>&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="40" alt="SAP" title="SAP" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" title="AWS" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes" title="Kubernetes" />&nbsp;&nbsp;
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/brain.svg?color=%23A78BFA&amp;height=40" /><img src="https://api.iconify.design/mdi/brain.svg?color=%236D28D9&amp;height=40" height="40" alt="RAG / LLM" title="RAG / LLM" /></picture>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 
