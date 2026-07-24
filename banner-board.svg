@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Rafael Azzolini — Junior Full-Stack Developer. Building Vistobra; expanding into Backend and AWS with Python and Go; −44% material waste at PepsiCo and −34% HR load via a RAG agent; Computer Engineer with a dual degree between Spain and Brazil; based in São Paulo, SP, open to on-site, hybrid or remote.">
+  <title>Rafael Azzolini — Junior Full-Stack Developer</title>
+
+  <rect width="1200" height="360" fill="#0B0B0D" />
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+
+    <!-- name + role -->
+    <text x="70" y="84" font-size="42" font-weight="700" letter-spacing="2" fill="#F2EFE9">RAFAEL AZZOLINI</text>
+    <text x="72" y="110" font-size="14" letter-spacing="4.5" fill="#7E8792">JUNIOR FULL-STACK DEVELOPER</text>
+
+    <!-- separator -->
+    <path d="M70 128 H1130" stroke="#26282E" stroke-width="1.5" />
+
+    <!-- about, as work-format columns -->
+    <g font-size="11" letter-spacing="3" fill="#5C646E">
+      <text x="60" y="154">FOCUS</text>
+      <text x="280" y="154">DETAIL</text>
+    </g>
+
+    <g>
+      <rect x="40" y="166" width="1120" height="28" rx="3" fill="#131419" />
+      <rect x="40" y="198" width="1120" height="28" rx="3" fill="#131419" />
+      <rect x="40" y="230" width="1120" height="28" rx="3" fill="#131419" />
+      <rect x="40" y="262" width="1120" height="28" rx="3" fill="#131419" />
+      <rect x="40" y="294" width="1120" height="28" rx="3" fill="#131419" />
+    </g>
+
+    <g font-size="14" letter-spacing="2.5" fill="#E8B04B">
+      <text x="60" y="185">BUILDING</text>
+      <text x="60" y="217">LEARNING</text>
+      <text x="60" y="249">IMPACT</text>
+      <text x="60" y="281">EDUCATION</text>
+      <text x="60" y="313">BASED</text>
+    </g>
+
+    <g font-size="16" letter-spacing="0.4" fill="#C7CDD4">
+      <text x="280" y="185">Vistobra — turning the jobsite into live, photo-backed data</text>
+      <text x="280" y="217">Backend &amp; AWS · Python · Go</text>
+      <text x="280" y="249">−44% material waste @ PepsiCo · −34% HR load via a RAG agent</text>
+      <text x="280" y="281">Computer Engineer · dual degree Spain 🤝 Brazil</text>
+      <text x="280" y="313">São Paulo, SP · on-site / hybrid / remote</text>
+    </g>
+
+  </g>
+</svg>
