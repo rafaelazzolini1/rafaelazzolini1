@@ -2,12 +2,16 @@
 
 **Junior Full-Stack Developer**
 
-<p align="center">
+<p align="left">
   <a href="https://rafael-azzolini-portifolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMCAzaDRhMyAzIDAgMCAxIDMgM3YxaDNhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMlY5YTIgMiAwIDAgMSAyLTJoM1Y2YTMgMyAwIDAgMSAzLTN6bTAgMmExIDEgMCAwIDAtMSAxdjFoNlY2YTEgMSAwIDAgMC0xLTFoLTR6Ii8%2BPC9zdmc%2B" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/rafael-azzolini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rafaazzolini@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/5515998500608"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
+
+---
+
+> *"I like to see code running, turning complex things into simple ones"*
 
 ## 📌 About me
 
@@ -90,7 +94,3 @@
     </tr>
   </tbody>
 </table>
-
----
-
-> *"I like to see code running, turning complex things into simple ones"*
