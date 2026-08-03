@@ -1,4 +1,6 @@
-<img src="banner-board.svg" alt="Rafael Azzolini — Junior Full-Stack Developer. Building Vistobra; expanding into Backend and AWS with Python and Go; −44% material waste at PepsiCo and −34% HR load via a RAG agent; Computer Engineer with a dual degree between Spain and Brazil; based in São Paulo, SP, open to on-site, hybrid or remote." width="100%" />
+# Rafael Azzolini
+
+**Junior Full-Stack Developer**
 
 <p align="center">
   <a href="https://rafael-azzolini-portifolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMCAzaDRhMyAzIDAgMCAxIDMgM3YxaDNhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMlY5YTIgMiAwIDAgMSAyLTJoM1Y2YTMgMyAwIDAgMSAzLTN6bTAgMmExIDEgMCAwIDAtMSAxdjFoNlY2YTEgMSAwIDAgMC0xLTFoLTR6Ii8%2BPC9zdmc%2B" alt="Portfolio" /></a>
@@ -6,6 +8,14 @@
   <a href="mailto:rafaazzolini@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/5515998500608"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
+
+## 📌 About me
+
+- 🏗️ **Building** — **Vistobra**, turning the jobsite into live, photo-backed data.
+- 🌱 **Learning** — Backend & AWS with Python and Go.
+- 📈 **Impact** — cut material waste **44%** at PepsiCo and HR operational load **~34%** with a RAG agent.
+- 🎓 **Education** — Computer Engineer · dual degree 🇪🇸 🤝 🇧🇷.
+- 📍 **Based** — São Paulo, SP · open to **on-site / hybrid / remote**.
 
 ## 🛠️ Tech Stack
 
